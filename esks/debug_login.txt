@@ -1,0 +1,3 @@
+Kullanıcı: bid@balikesir.edu.tr
+Şifre: 12345678
+Hash: $2y$10$5My0YMiPAKNym/1.LpHj/.uPKRfwZ1mR7cYr5nCQdcvZb1Hp1oX/q

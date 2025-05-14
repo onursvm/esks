@@ -1,0 +1,3 @@
+Girilen: 12345678
+Hash: $2y$10$hF8WQzNhMFRZC4SHxSwA4eAW8WUvZ6r8yx1oZpgjkqY4ULwnc1.5y
+verify sonucu: false
